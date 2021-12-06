@@ -1,6 +1,6 @@
 # Templates-1
 
-https://ramymansy.github.io/Templates-1/
+https://ramymansy.github.io/leon/
 
 ## Design By Elzero Web School
 
